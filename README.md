@@ -2,6 +2,15 @@
 
 NOTE: This project was for personal use. Any information provided in this project should not be construed as financial advice.
 
+## Summary:
+
+After analysis, the 24th of each month is recommended as the best date for starting a Systematic Investment Plan (SIP). 
+
+One of the possible reason for this conclusion is that most salaried employees have their SIPs in the beginning of the month when they get their salaries in their account this inflow of cash into the market makes the price a bit inflated than it should be and buys the units at higher price.
+
+This suggestion is based on data analysis. However, individual circumstances may vary, so consider personal factors before making investment decisions.
+
+---
 ## Introduction
 
 ### Project Title: Systematic Investment Plan (SIP) Date Analysis
